@@ -1,6 +1,6 @@
 # Compiling Awkward Lorentz Vectors with Numba
 
-[![Talk](https://img.shields.io/badge/CHEP24-poster-blue?logo=github&logoColor=white&color=blue)](https://indi.to/zTs5b)
+[![Talk](https://img.shields.io/badge/ACAT22-poster-blue?logo=github&logoColor=white&color=blue)](https://indi.to/zTs5b)
 
 Due to the massive nature of HEP data, performance has always been a factor in its analysis and processing.
 Languages like C++ would be fast enough but are often challenging to grasp for beginners, and can be difficult
